@@ -7,4 +7,4 @@ This is not a finished project — it’s a scratchpad for learning.
 https://www.youtube.com/watch?v=xND0t1pr3KY
 
 ## Topics explored
-This list will grow as I add more experiments.
+- Variables
