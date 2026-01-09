@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=xND0t1pr3KY
 
 ## Topics explored
 - Variables
+- Format Specifiers
+- Optional Modifiers
