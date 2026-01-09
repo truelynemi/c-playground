@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=xND0t1pr3KY
 - Variables
 - Format Specifiers
 - Optional Modifiers
+- Arithmetic Operators
+- Augemented Assignments
