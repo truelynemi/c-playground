@@ -1,5 +1,4 @@
-// Playing around with variables
-
+// Playing around with variables & format specifiers
 #include <stdio.h>
 #include <stdbool.h>
 
